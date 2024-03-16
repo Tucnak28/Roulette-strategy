@@ -1,0 +1,7 @@
+C:\Users\Michal Farník\source\repos\Rust Gamble Perfect combination\Rust Gamble Perfect combination\bin\Debug\Rust Gamble Perfect combination.exe.config
+C:\Users\Michal Farník\source\repos\Rust Gamble Perfect combination\Rust Gamble Perfect combination\bin\Debug\Rust Gamble Perfect combination.exe
+C:\Users\Michal Farník\source\repos\Rust Gamble Perfect combination\Rust Gamble Perfect combination\bin\Debug\Rust Gamble Perfect combination.pdb
+C:\Users\Michal Farník\source\repos\Rust Gamble Perfect combination\Rust Gamble Perfect combination\obj\Debug\Rust Gamble Perfect combination.csproj.AssemblyReference.cache
+C:\Users\Michal Farník\source\repos\Rust Gamble Perfect combination\Rust Gamble Perfect combination\obj\Debug\Rust Gamble Perfect combination.csproj.CoreCompileInputs.cache
+C:\Users\Michal Farník\source\repos\Rust Gamble Perfect combination\Rust Gamble Perfect combination\obj\Debug\Rust Gamble Perfect combination.exe
+C:\Users\Michal Farník\source\repos\Rust Gamble Perfect combination\Rust Gamble Perfect combination\obj\Debug\Rust Gamble Perfect combination.pdb
